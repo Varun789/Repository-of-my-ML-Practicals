@@ -1,1 +1,1 @@
-# My college Practicals
+# My college Machine Learning Practicals
