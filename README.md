@@ -34,5 +34,5 @@
 9. Sentiment Analysis of Amazon reviews
 10. Ridge and Lasso Regression implementation
 11. Classification using Support Vector Machine on IRIS dataset
-12 . Movie review from given dataset
+12. Movie review from given dataset
 13. Home loan prediction from given dataset .
