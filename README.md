@@ -14,12 +14,12 @@
 
 4.  Binary Logistic Regression (Employee Retention Ration) Instructions
 
-   - Now do some exploratory data analysis(EDA) to figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the company
+        - Now do some exploratory data analysis(EDA) to figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the           company
       or   continue to work)
-   - Plot bar charts showing impact of employee salaries on retention
-   - Plot bar charts showing corelation between department and employee retention
-   - Now build logistic regression model using variables that were narrowed down in step 1
-   - Measure the accuracy of the model
+        - Plot bar charts showing impact of employee salaries on retention
+        - Plot bar charts showing corelation between department and employee retention
+        - Now build logistic regression model using variables that were narrowed down in step 1
+        - Measure the accuracy of the model
 5. Aim -Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out accuracy of your model and use that to
    predict different samples in your test dataset. In iris dataset there are 150 samples containing following features,
 
